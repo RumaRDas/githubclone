@@ -18,11 +18,12 @@ h2 {
 }
 
 .card {
-  width: 450px;
+  width: 100%;
   border: none;
   border-radius: 10px;
   background-color: #fff;
   margin: auto;
+
 
 }
 .image {
